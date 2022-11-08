@@ -33,5 +33,8 @@ btnFavorite.grid(row=1,column=2)
 btnBorrowed=tk.Button(window,text='View Borrowed Items History', width=30, height=5)
 btnBorrowed.grid(row=2,column=1)
 
+btnExit=tk.Button(window,text='Exit',bg='red', width=20, height = 2)
+btnExit.grid(row=3,column=2)
+
 
 window.mainloop
