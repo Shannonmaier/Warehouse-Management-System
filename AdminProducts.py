@@ -1,3 +1,10 @@
+'''
+Date:11/8/22
+Author:Shannon Maier
+Team:ABC
+Title: CMPT Group Project Phase 02
+'''
+
 import tkinter as tk
 window=tk.Tk()
 window.title('Admin Products and Actions')
