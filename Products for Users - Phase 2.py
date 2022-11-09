@@ -1,3 +1,6 @@
+
+
+
 '''
 Project Phase 2
 Warehouse Managment Systems
@@ -6,6 +9,9 @@ Team ABC
 Author: Lauren Lietzke
 Page: Products for Users
 '''
+
+#USES a program (tkmacosx) that is only for maca and is downloaded through terminal - regular version on iLearn
+
 
 import tkinter as tk
 import tkmacosx as tkmac
