@@ -2,9 +2,9 @@
 
 Project: 
 
--  Creating a Warehouse management system that allows Admin users to login to the system and add products to the warehous with differnt cirteria that is listed in the project report
--  Regular users will be able to request to borrow/buy the items and the requests can be approved my the admins.
--  Other Functionalties are listed in the Project Report
+-  Creating a Warehouse management system that allows Admin users to log into the system and add products to the warehouse with different categories that are listed in the project report
+- Regular users will be able to request to borrow/buy the items, and the requests can be approved by the admins.
+-  Other Functions are listed in the Project Report
 
 -  Admin Username: Admin
 -  Admin Password: Shannon
